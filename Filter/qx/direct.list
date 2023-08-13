@@ -1,3 +1,8 @@
-
-HOST-SUFFIX,peacocktv.com,US
-HOST-SUFFIX,pluto.tv,US
+#自定义直连
+HOST-SUFFIX,myqnapcloud.com,direct
+HOST-SUFFIX,qnap.com,direct
+HOST-SUFFIX,ddns.net,direct
+HOST-SUFFIX,aliyundrive.net,direct
+HOST-SUFFIX,haishang.xyz,direct
+HOST-SUFFIX,cloudfront.net,direct
+HOST-SUFFIX,n0808.com,direct
